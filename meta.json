@@ -1,0 +1,23 @@
+{
+  "repo": "avira-prime-ultimate-bundle",
+  "product": "Avira Prime Ultimate Bundle",
+  "kind": "security",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "security",
+  "topics": [
+    "avira-prime",
+    "malware-scanner",
+    "safe-browsing",
+    "system-scanner",
+    "privacy-suite",
+    "avira-setup-failed-fix",
+    "how-to-install-avira",
+    "avira-windows",
+    "avira-desktop-2026",
+    "avira-desktop-package"
+  ],
+  "site": "toolix.me"
+}
